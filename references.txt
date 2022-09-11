@@ -1,0 +1,7 @@
+// mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+// PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+// PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+// System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+// System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+// System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+// WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
