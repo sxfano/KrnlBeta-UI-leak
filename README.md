@@ -1,5 +1,5 @@
-### KrnlBeta source leak
-used dnspy to get source code
+### KrnlBeta UI leak
+used dnspy to get UI source code
 
 ***
   <p align="center">
